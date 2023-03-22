@@ -1,1 +1,2 @@
 # simulation_and_data_science_laboratory_virtual_tour
+link de la pagina: https://ceintecci.github.io/simulation_and_data_science_laboratory_virtual_tour/
